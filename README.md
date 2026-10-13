@@ -1,5 +1,3 @@
-# reinforced-concrete-slab-design
-Structural design of a reinforced concrete floor slab using plastic moment redistribution.
 # Reinforced Concrete Floor Slab Design
 
 ## Project Overview
@@ -12,7 +10,7 @@ This course project focuses on the structural design of a reinforced concrete fl
 - **Methods:** Plastic moment redistribution and elastic theory
 
 ## Project Report
-📄 **[View Full Project Report (PDF)](./Reinforced%20Concrete%20Floor%20Slab%20Design.pdf)**
+[View Full Project Report (PDF)](./Reinforced%20Concrete%20Floor%20Slab%20Design.pdf)
 
 ## Author
 **Toha Tamim Ahammed**
